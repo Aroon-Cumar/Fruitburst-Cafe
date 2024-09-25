@@ -1059,8 +1059,8 @@ section{
     }
     
     .view-all{
-        height:9rem;
-        width:10rem;
+        height:6rem;
+        width:8rem;
         margin-top: 3rem;
         background-color: black;
         border-radius: 2rem;
@@ -1219,28 +1219,26 @@ section{
         padding-top: 3rem;
         padding-bottom: 0   ;
     }
-    .view-all{
-        height: 7rem;
-    }
+    
     .view-all p{
-        font-size: 0.4rem;
+        font-size: 0.3rem;
     }
 
     .view-all h4{
-        font-size: 0.5rem;
+        font-size: 0.4rem;
     }
 
     .view-all{
-        border-radius: 0.6rem;
+        border-radius: 0.5rem;
     }
 
     .view-all .about-p{
         padding-top: 0;
-        font-size: 0.4rem;
+        font-size: 0.3rem;
     }
     .btn-about{
         font-size: 0.4rem;
-        margin-left:2.4rem;
+        margin-left:2rem;
         margin-top: 0.5rem;
     }
 
