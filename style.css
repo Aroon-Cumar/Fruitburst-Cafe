@@ -659,11 +659,11 @@ section{
     }
     
     .view-all{
-        height:10rem;
-        width:11rem;
+        height:8rem;
+        width:9rem;
         margin-top: 3rem;
         background-color: black;
-        border-radius: 2rem;
+        border-radius: 0.7rem;
         
     }
     
@@ -812,20 +812,20 @@ section{
     }
 
     .view-all p{
-        font-size: 0.7rem;
+        font-size: 0.4rem;
     }
 
     .view-all h4{
-        font-size: 0.9rem;
+        font-size: 0.6rem;
     }
 
     .view-all{
-        border-radius: 1rem;
+        border-radius: 0.7rem;
     }
 
     .view-all .about-p{
         padding-top: 0;
-        font-size: 0.5rem;
+        font-size: 0.3rem;
     }
     .btn-about{
         font-size: 0.6rem;
