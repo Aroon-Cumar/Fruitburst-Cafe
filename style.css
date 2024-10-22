@@ -722,7 +722,7 @@ section{
     .our-itm .all-itm{
     
         height: 3rem;
-        width:7rem;
+        width:6rem;
         background-color: black;
         border-radius: 1rem;
         transition: 0.5s ease-in-out;
@@ -739,6 +739,8 @@ section{
         display: grid;
         place-items: center;
         color: white;
+        margin-left:0;
+        margin-right:0;
        
     }
     
@@ -746,6 +748,8 @@ section{
         display: grid;
         place-items: center;
         color: white;
+        margin-left:0;
+        margin-right:0;
        
     }
     
@@ -753,6 +757,8 @@ section{
         display: grid;
         place-items: center;
         color: white;
+        margin-left:0;
+        margin-right:0;
        
     }
     
@@ -760,6 +766,8 @@ section{
         display: grid;
         place-items: center;
         color: white;
+        margin-left:0;
+        margin-right:0;
        
     }
     
@@ -767,6 +775,8 @@ section{
         display: grid;
         place-items: center;
         color: white;
+        margin-left:0;
+        margin-right:0;
        
     }
     
